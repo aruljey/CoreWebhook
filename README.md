@@ -32,6 +32,16 @@ appsettings.json
 }
 ```
 
+## Sample output
+```json
+{
+    "success": true,
+    "data": "{\r\n  \"Customer\": [\r\n    {\r\n      \"name\": \"Customer1\",\r\n      \"address\": \"address\",\r\n      \"city\": \"chennai\"\r\n    }\r\n  ]\r\n}",
+    "errorCode": "0",
+    "errorMessage": ""
+}
+```
+
 ---
 
 ⭐️ From [@aruljey](https://github.com/aruljey)
